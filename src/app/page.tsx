@@ -52,10 +52,10 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={inter.className}>
+          <h2 className='text-red-400'>
             Docs <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>
+          <p className='text-customGreen-300'>
             Find in-depth information about Next.js features and API.
           </p>
         </a>
